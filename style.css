@@ -1,0 +1,23 @@
+body{
+
+    background-color: rgb(92, 82, 82);
+}
+ #pag{
+
+    background-color: aliceblue;
+ border-radius: 20px;
+ padding: 10px;
+}
+
+#font{
+
+    color: rgb(38, 102, 199);
+    text-align: center;
+    font-size: 70px;
+}
+
+#font1{
+    text-align: center;
+
+    color:  rgb(4, 156, 98);
+}
